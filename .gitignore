@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+files/*
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Mac system files
+.DS_Store
+
+# npm package-lock files
+# package-lock.json
+
+# TypeScript files (ถ้าใช้)
+*.tsbuildinfo
